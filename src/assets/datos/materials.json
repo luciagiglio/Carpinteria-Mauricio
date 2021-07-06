@@ -1,0 +1,34 @@
+[
+  {
+    "id": "modal1",
+    "image": "../../../assets/img/contenido/material/catalogoColores1.jpg"
+  },
+  {
+    "id": "modal2",
+    "image": "../../../assets/img/contenido/material/catalogoColores2.jpg"
+  },
+  {
+    "id": "modal3",
+    "image": "../../../assets/img/contenido/material/catalogoColores3.jpg"
+  },
+  {
+    "id": "modal4",
+    "image": "../../../assets/img/contenido/material/catalogoColores4.jpg"
+  },
+  {
+    "id": "modal5",
+    "image": "../../../assets/img/contenido/material/catalogoColores5.jpg"
+  },
+  {
+    "id": "modal6",
+    "image": "../../../assets/img/contenido/material/catalogoColores6.jpg"
+  },
+  {
+    "id": "modal7",
+    "image": "../../../assets/img/contenido/material/catalogoColores7.jpg"
+  },
+  {
+    "id": "modal8",
+    "image": "../../../assets/img/contenido/material/catalogoColores8.jpg"
+  }
+]

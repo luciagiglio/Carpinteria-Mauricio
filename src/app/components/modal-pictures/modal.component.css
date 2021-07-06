@@ -1,0 +1,65 @@
+.btn{
+    position: relative;
+    background: rgb(68, 25, 8);
+    border-color:rgb(68, 25, 8);
+    box-shadow: 5px 4px 5px 0px rgb(12, 3, 3);
+    font-size: 1.2rem;
+    margin-left: 0;
+    margin-top: 2rem;
+    margin-bottom: 0;
+    text-transform: capitalize;
+    padding-left: 1.2rem;
+    padding-right: 1.2rem;
+
+}
+
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+    background-color:rgba(0, 0, 0, 0.397);
+    border-color:rgba(0, 0, 0, 0.562);
+  }
+  
+  .btn-primary:focus {
+    box-shadow: 0 0 0 0.2rem rgba(48, 23, 0, 0.664);
+    
+  }
+
+  
+  .modal{
+    background-color: rgba(26, 18, 14, 0.63);
+  }
+
+ .btn-cl{
+   border: none;
+   color: white;
+   background-color: transparent;
+   margin-left: 94%;
+ }
+
+  .modal-content{
+    background-color: rgba(0, 0, 0, 0.233);
+    border-radius: 15px;
+    border-color:rgba(0, 0, 0, 0.171);
+  }
+  .modal-header{
+    background-color: transparent;
+    border: none;
+    border-radius: 15px;
+    
+  }
+
+  img{
+    border-radius: 15px;
+  }
+
+  .carousel-item p{
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: 600;
+    font-family: 'Catamaran';
+    padding-top: 1rem;
+    color: white;
+    text-transform: uppercase;
+  }
+
+ 
+

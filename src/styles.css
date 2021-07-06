@@ -1,1 +1,58 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+  box-sizing: border-box;
+}
+html {
+  font-size: 16px;
+  
+}
+
+
+@media screen and (max-width: 550px) {
+
+  html {
+
+      font-size: 12px;
+
+  }
+
+}
+
+@media screen and (min-width: 1700px) {
+
+  html {
+
+      font-size: 17px;
+
+  }
+
+}
+
+
+
+body {
+  padding: 0 !important;
+  margin: 0 !important;
+  background: rgba(104, 65, 46, 0.63) !important;
+  overflow: overlay;
+}
+
+::-webkit-scrollbar {
+  width: 15px;
+  height: 15px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(53, 38, 27, 0.815);
+  border-radius: 1rem;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(82, 50, 35, 0.952);
+}
+::-webkit-scrollbar-thumb:active {
+  background: rgba(230, 223, 219, 0.479);
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}

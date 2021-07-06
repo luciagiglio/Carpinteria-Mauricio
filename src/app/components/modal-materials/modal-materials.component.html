@@ -1,0 +1,21 @@
+
+<a class="btn btn-primary" data-bs-toggle="modal" href="#catalogo" role="button"><i class="fas fa-swatchbook"></i> Colores</a>
+
+    <div class="modal fade" id="catalogo" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
+         <div *ngFor="let item of material ">
+                <div class="modal-dialog modal-dialog-centered modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalToggleLabel">Catálogo de Colores</h5>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                            <img class="img-fluid" src="{{ item.image }}" alt="">
+                        </div>
+                        <div class="modal-footer">
+                            <p>Son a pedido <i class="fas fa-circle"></i></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </div>
