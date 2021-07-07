@@ -53,6 +53,10 @@ header.masthead {
 }
 
 .btn{
+    font-family: 'Catamaran';
+    font-size: 1.2rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
     position: relative;
     background: rgb(68, 25, 8);
     border-color:rgb(68, 25, 8);
