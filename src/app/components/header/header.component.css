@@ -27,6 +27,7 @@ header.masthead {
     position: relative;
     color:white;
     font-weight: 600;
+    font-family: 'Lato';
  
   }
   
@@ -35,6 +36,7 @@ header.masthead {
     position: relative;
     color:rgb(231, 231, 231);
     font-weight: 600;
+    font-family: 'Lato';
 
   }
 
