@@ -7,7 +7,6 @@ import { FooterComponent } from './components/footer/footer.component';
 import { ContentComponent } from './components/content/content.component';
 import { ModalComponent } from './components/modal-pictures/modal.component';
 import { ModalMaterialsComponent } from './components/modal-materials/modal-materials.component';
-import { LoaderComponent } from './components/loader/loader.component';
 
 
 @NgModule({
@@ -17,8 +16,7 @@ import { LoaderComponent } from './components/loader/loader.component';
     FooterComponent,
     ContentComponent,
     ModalComponent,
-    ModalMaterialsComponent,
-    LoaderComponent
+    ModalMaterialsComponent
     
   ],
   imports: [
