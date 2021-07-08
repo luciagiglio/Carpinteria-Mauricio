@@ -38,19 +38,21 @@ body {
 }
 
 ::-webkit-scrollbar {
-  width: 15px;
-  height: 15px;
+  width: 16px;
+  height: 16px;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: rgba(53, 38, 27, 0.815);
-  border-radius: 1rem;
+  background: rgba(223, 221, 219, 0.815);
+  border-radius: 5px;
 }
 ::-webkit-scrollbar-thumb:hover {
   background: rgba(82, 50, 35, 0.952);
+  
 }
 ::-webkit-scrollbar-thumb:active {
-  background: rgba(230, 223, 219, 0.479);
+  background: rgba(15, 7, 2, 0.884);
+  
 }
 
 ::-webkit-scrollbar-track {
