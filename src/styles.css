@@ -6,8 +6,11 @@ html {
   font-size: 16px;
 }
 
-
-
+@font-face {
+  font-family: 'Lato';
+  font-display:auto;
+  src: url(assets/font/Lato-Regular.ttf);
+}
 
 @media screen and (max-width: 550px) {
 
