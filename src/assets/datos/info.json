@@ -1,23 +1,19 @@
 [
-  {
 
-    "image": "../../../assets/img/contenido/armarios/prin.jpeg",
-    "title": "Armarios"
+  {
+  
+    "image": "../../../assets/img/contenido/cocina/3.jpeg",
+    "title": "Cocinas"
   },
   {
-
-    "image": "../../../assets/img/contenido/armarios/2.jpeg",
-    "title": "Armarios"
+  
+    "image": "../../../assets/img/contenido/cocina/2.jpeg",
+    "title": "Cocinas"
   },
   {
-
-    "image": "../../../assets/img/contenido/armarios/3.jpeg",
-    "title": "Armarios"
-  },
-  {
-
-    "image": "../../../assets/img/contenido/armarios/4.jpeg",
-    "title": "Armarios"
+  
+    "image": "../../../assets/img/contenido/cocina/4.jpeg",
+    "title": "Cocinas"
   },
   {
 
@@ -45,8 +41,28 @@
     "title": "Baños"
   },
   {
+
+    "image": "../../../assets/img/contenido/armarios/prin.jpeg",
+    "title": "Armarios"
+  },
+  {
+
+    "image": "../../../assets/img/contenido/armarios/2.jpeg",
+    "title": "Armarios"
+  },
+  {
+
+    "image": "../../../assets/img/contenido/armarios/3.jpeg",
+    "title": "Armarios"
+  },
+  {
+
+    "image": "../../../assets/img/contenido/armarios/4.jpeg",
+    "title": "Armarios"
+  },
+  {
  
-    "image": "../../../assets/img/contenido/montessori/prin.jpeg",
+    "image": "../../../assets/img/contenido/montessori/prin.jpg",
     "title": "Niños"
   },
   {
@@ -93,20 +109,6 @@
  
     "image": "../../../assets/img/contenido/salon/5.jpeg",
     "title": "Estantes"
-  },
-  {
-  
-    "image": "../../../assets/img/contenido/cocina/2.jpeg",
-    "title": "Cocina"
-  },
-  {
-  
-    "image": "../../../assets/img/contenido/cocina/3.jpeg",
-    "title": "Cocina"
-  },
-  {
-  
-    "image": "../../../assets/img/contenido/cocina/4.jpeg",
-    "title": "Cocina"
   }
+  
 ]
