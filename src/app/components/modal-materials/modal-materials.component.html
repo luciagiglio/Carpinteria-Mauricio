@@ -2,20 +2,22 @@
 <a class="btn btn-primary" data-bs-toggle="modal" href="#catalogoColores" role="button"><i class="fas fa-swatchbook"></i> Colores</a>
 
     <div class="modal fade" id="catalogoColores" aria-hidden="true" aria-labelledby="catalogoMaterial" tabindex="-1">
-         <div *ngFor="let item of material ">
-                <div class="modal-dialog modal-dialog-centered modal-lg">
+         
+                <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg">
                     <div class="modal-content">
                         <div class="modal-header">
                             <h5 class="modal-title" id="tituloCatalogo">Catálogo de Colores</h5>
                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                         </div>
                         <div class="modal-body">
-                            <img class="img-fluid" src="{{ item.image }}" alt="">
+                            <div *ngFor="let item of material ">
+                            <img class="img-fluid" src="{{ item.image }}" alt="colores de mdf melaminico">
+                        </div>
                         </div>
                         <div class="modal-footer">
                             <p>Son a pedido <i class="fas fa-circle"></i></p>
                         </div>
                     </div>
                 </div>
-            </div>
+            
     </div>

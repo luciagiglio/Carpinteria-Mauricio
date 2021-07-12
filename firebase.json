@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/CarpinteriaMauricio",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

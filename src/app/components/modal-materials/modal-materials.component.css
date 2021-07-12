@@ -3,7 +3,7 @@
     color: rgb(37, 11, 0);
     background: rgba(255, 255, 255, 0.514);
     font-weight: 600;
-    border-color:rgb(68, 25, 8);
+    border-color:rgba(68, 25, 8, 0.445);
     box-shadow: 5px 4px 5px 0px rgb(12, 3, 3);
     font-size: 1.4rem;
     margin-left: 0;
@@ -56,3 +56,20 @@
     border: none;
   }
   
+  ::-webkit-scrollbar {
+    width: 16px;
+    height: 16px;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: rgba(22, 22, 22, 0.815);
+    border-radius: 5px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgba(82, 50, 35, 0.952);
+    
+  }
+  ::-webkit-scrollbar-thumb:active {
+    background: rgba(146, 86, 48, 0.884);
+    
+  }
